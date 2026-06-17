@@ -1,1 +1,1 @@
-osi model
+ osi model
